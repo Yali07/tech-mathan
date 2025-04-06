@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>TechMathan Blog</title>
+    <link>https://techmathan.blog/</link>
+    <description>React Native & Front-End Dev Tutorials by Mathan Raj</description>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Apr 2025 12:00:00 +0000</lastBuildDate>
+
+    <!-- <item>
+      <title>Getting Started with React Native</title>
+      <link>https://techmathan.blog/blog/react-native-getting-started</link>
+      <description>A beginner-friendly guide to set up your React Native environment in 2025.</description>
+      <pubDate>Sat, 05 Apr 2025 10:00:00 +0000</pubDate>
+      <guid>https://techmathan.blog/blog/react-native-getting-started</guid>
+    </item> -->
+
+    <!-- Add more <item> blocks for future blog posts -->
+  </channel>
+</rss>

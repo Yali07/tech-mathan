@@ -1,0 +1,6 @@
+# robots.txt for techmathan.blog
+
+User-agent: *
+Allow: /
+
+Sitemap: https://techmathan.blog/sitemap.xml
